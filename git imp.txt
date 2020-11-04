@@ -1,0 +1,10 @@
+GIT & GIT HUB
+--------------
+
+GIT BASH -> DEVELOPER 1
+LINUX SERVER -> DEVELOPER 2
+
+1. while your writing code if your doing any changes to code it records those chamges.
+2. easy to share code from different devolpers
+3. it tracks and remembers  who has done those changes
+4. it is quite easy and allows to go back top previous code
